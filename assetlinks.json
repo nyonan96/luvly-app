@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.natalie.luvly",
+    "sha256_cert_fingerprints": ["C9:30:3D:F1:A3:A7:01:6E:BC:E7:36:C9:D2:44:60:65:8A:D7:D0:5C:00:C1:3B:14:C5:C2:1B:3C:6E:A8:77:EC"]
+  }
+}]
